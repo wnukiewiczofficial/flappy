@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Flappy';
+  src: url('./assets/flappyFont.ttf')  format('truetype');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
